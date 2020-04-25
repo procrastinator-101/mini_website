@@ -1,6 +1,6 @@
 **welcome to this website**
 
-`
+```c
 #include <iostream>
 #include <vector>
 #include <algorithm>
