@@ -23,7 +23,7 @@ int main()
 }
 ```
 
->'ptr : is pointer to a function that returns nothing(void) and that takes no arguments(void)
+>'ptr : is pointer to a function that returns nothing(void) and that takes no arguments(void)</br>
 say\_hello is a function just prints "hello" on stdout'
 
 ## Exemple 2
@@ -43,5 +43,5 @@ int main()
 }
 ```
 
->ptr : is a pointer to function that returns an int and takes two arguments of type int[space][space]
+>ptr : is a pointer to function that returns an int and takes two arguments of type int  
 >sum : is a function that calculates the sum of two integers
