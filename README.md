@@ -6,7 +6,7 @@ A function pointer is a pointer (i.e variable holding some address) that points 
 ## Syntax
 >function\_return\_datatype (\*pointer\_name)(function\_arguments\_datatype)
 
-## exemple 1
+## Exemple 1
 ```c
 #include <stdio.h>
 
@@ -23,10 +23,10 @@ int main()
 }
 ```
 
->ptr : is pointer to a function that returns nothing(void) and that takes no arguments(void)
->say\_hello is a function just prints "hello" on stdout
+>'ptr : is pointer to a function that returns nothing(void) and that takes no arguments(void)
+say\_hello is a function just prints "hello" on stdout'
 
-## **exemple 2**
+## Exemple 2
 ```c
 #inlcude <stdio.h>
 
@@ -43,5 +43,5 @@ int main()
 }
 ```
 
->ptr : is a pointer to function that returns an int and takes two arguments of type int;
->sum : is a function that calculates the sum of two integers;
+>ptr : is a pointer to function that returns an int and takes two arguments of type int;\n
+>isum : is a function that calculates the sum of two integers;
