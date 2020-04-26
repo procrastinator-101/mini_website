@@ -40,7 +40,7 @@ int main()
 	printf("sum = %d\n", ptr(1, 3));
 
 }
-```c
+```
 
 >ptr : is a pointer to function that returns an int and takes two arguments of type int;
 >sum : is a function that calculates the sum of two integers;
