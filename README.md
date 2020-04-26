@@ -1,11 +1,12 @@
-#**Function pointers in C**
+# Function pointers in C
 
-##**Definition**
+## Definition
 A function pointer is a pointer (i.e variable holding some address) that points to a piece of code, the function it points to.
 
-##**Syntax**
+## Syntax
 >function\_return\_datatype (\*pointer\_name)(function\_arguments\_datatype)
-##**exemple 1**
+
+## exemple 1
 ```c
 #include <stdio.h>
 
@@ -23,9 +24,9 @@ int main()
 ```
 
 >ptr : is pointer to a function that returns nothing(void) and that takes no arguments(void)
->say\_hello is a function just prints "hello" on stdout.
+>say\_hello is a function just prints "hello" on stdout
 
-##**exemple 2**
+## **exemple 2**
 ```c
 #inlcude <stdio.h>
 
