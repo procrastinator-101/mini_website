@@ -43,5 +43,5 @@ int main()
 }
 ```
 
->ptr : is a pointer to function that returns an int and takes two arguments of type int[space]
+>ptr : is a pointer to function that returns an int and takes two arguments of type int[space][space]
 >sum : is a function that calculates the sum of two integers
